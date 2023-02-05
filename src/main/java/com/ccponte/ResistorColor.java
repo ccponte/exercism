@@ -17,6 +17,7 @@ class ResistorColor {
         white(9);
 
         private final int value;
+
         Colors(int value) {
             this.value = value;
         }
