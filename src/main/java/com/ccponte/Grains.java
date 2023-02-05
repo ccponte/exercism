@@ -29,6 +29,7 @@ class Grains {
 //        }
 //        return totalGrains;
 
+//        Mathematical solution
         return BigInteger.TWO.pow(64).subtract(BigInteger.ONE);
     }
 
